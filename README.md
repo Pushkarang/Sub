@@ -1,12 +1,13 @@
 # Sub
 Download subtitles from terminal
 
-Clone this repo
+1.Clone this repo
 
-Add below line in ~/.bashrc
-export PATH=<pathtodirectorySub>:${PATH}
-
-source ~/.bashrc
+2.Add below line in ~/.bashrc
+```
+export PATH=pathtodirectorySub:${PATH}
+```
+3. $source ~/.bashrc
 
 Usage 
 
