@@ -24,5 +24,5 @@ if len(sys.argv)>1:
 		z.extractall()
 		print("Done..")
 else:
-	print("Enter SUB [movie_name]")				
+	print("Enter SUB [film_name]")				
 
